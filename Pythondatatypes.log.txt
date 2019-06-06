@@ -1,0 +1,106 @@
+C:\Users\sheen\AppData\Local\Programs\Python\Python37-32\python.exe D:/mypythonlearings/Fileprocessing/src/Pythondatatypes.py
+****************int/float operations************
+<class 'int'> 5
+<class 'float'> 5.2
+<class 'float'> 10.2
+<class 'str'> sample
+unsupported operand type(s) for +: 'type' and 'int'
+****************************
+***********Python List Operations*****************
+[]
+[1, 2, 3, 7, 8, 9]
+1 2
+9
+[3, 7, 8]
+[1, 2, 3]
+[7, 8, 9]
+[7, 8, 9]
+6
+list1: [1, 2, 3]
+list2: [1, 2, 3]
+list1+list2 : [1, 2, 3, 4, 5, 6]
+[1, 'Hello', 3.4]
+1 Hello
+H
+He
+[7, 8, 9]
+9
+4
+[1, [7, 8, 9], [50, 60, 70, 90], 300]
+[1, [7, 8, 9], [50, 60, 70, 90]]
+[[7, 8, 9], [50, 60, 70, 90]]
+[[7, 8, 9], [50, 60, 70, 90], 300]
+[[7, 8, 9], [50, 60, 70, 90]]
+[[7, 8, 9], 23, [50, 60, 70, 90]]
+()
+(1, 2, 3)
+(1, 'Hello', 3.4)
+('mouse', [8, 4, 6], (1, 2, 3))
+mouse
+mouse [8, 4, 6] (1, 2, 3)
+(3, 4.6, 'dog')
+<class 'str'>
+<class 'tuple'>
+3
+(3,)
+dog
+<class 'tuple'>
+3
+1
+2
+(1, 2, 3, 4, 5, 6)
+str1 * 3 = HelloHelloHello
+str1 + str2 =  HelloWorld!
+list(enumerate(str) =  [(0, 'c'), (1, 'o'), (2, 'l'), (3, 'd')]
+len(str) =  4
+
+--- Default Order ---
+John, Bill and Sean
+
+--- Positional Order ---
+Bill, John and Sean
+
+--- Keyword Order ---
+Sean, Bill and John
+['a', 'i', 'b', 'o', 'h', 'p', 'h', 'o', 'b', 'i', 'a']
+aibohphobia
+It is not palindrome
+1, 2, 3, 4
+1, 2, 3, 4
+s1.join(s2): 1abc2abc3
+s2.join(s1): a123b123c
+Helloworld
+helloworld
+HELLoWORLD
+2
+heLLOworld
+heLlOworld
+heLLOworLd
+hellO
+{1: 'apple', 2: 'ball'}
+{'name': 'John', 1: [2, 4, 3]}
+{1: 'apple', 2: 'ball'}
+{1: 'apple', 2: 'ball'}
+Jack
+26
+26
+Jack
+{'name': 'Jack', 'age': 27}
+{'name': 'Jack', 'age': 27, 'address': 'Downtown'}
+16
+{1: 1, 2: 4, 3: 9, 5: 25}
+(5, 25)
+{1: 1, 2: 4, 3: 9}
+{1: 1, 2: 4, 3: 9}
+{}
+{1, 2, 3}
+{1, 2, 3}
+set 1 : {1, 2, 3, 4, 5}
+set 2 : {4, 5, 6}
+set 1 union set 2 : {1, 2, 3, 4, 5, 6}
+set 1 intersection set 2 : {4, 5}
+set 1 difference set 2 : {1, 2, 3}
+set 2 difference set 1 : {1, 2, 3}
+{1.0, 'Hello', (1, 2, 3)}
+
+Process finished with exit code 0
