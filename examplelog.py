@@ -1,4 +1,4 @@
-import logging
+    import logging
 import smtplib
 # Import the email modules we'll need
 from email.message import EmailMessage
@@ -26,7 +26,7 @@ except TypeError as e:
         print('msg: %s', TEXT)
         # Prepare actual message
         message = """From: From Person <fromuser@pythonlearning.com>
-        To: To Person <to@touser@pythonlearnings.com>
+        To: To Person <to@touser@pythonlearning.com>
         Subject: %s
 
 
